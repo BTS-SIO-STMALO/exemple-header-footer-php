@@ -1,6 +1,3 @@
-<?php
-
-echo '
 <header>
     <nav>
         <ul>
@@ -11,6 +8,4 @@ echo '
             <li> <a class="link" href="#">Nos références</a></li>
         </ul>
     </nav>
-</header>';
-
-?>
+</header>
